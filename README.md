@@ -19,7 +19,3 @@ This code has followed these steps to crawl the data from that specific ecommerc
 ## Caution
 
 This web scraping is not applicable for all websites. This can retrive data from the specific website that has mentioned in the code.
-
-## Attenttion 
-
-This is temporary repo. This task is uploaded for a interview session.
